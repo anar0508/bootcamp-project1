@@ -1,0 +1,20 @@
+.child{
+    float: left;
+    width: 33.33%;
+}
+img{
+    width: 230px;
+}
+
+.text{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.button{
+    width: 150px;
+    text-align: center;
+    background-color: #eab9c9;
+    color: #ad62aa;
+    padding: 5px;
+}
